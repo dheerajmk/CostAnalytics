@@ -1,2 +1,2 @@
 # CostAnalytics
-A project to strengthen the fundamentals of Rust language and software architecture.
+A learning project to strengthen the fundamentals of Rust language and software architecture.
