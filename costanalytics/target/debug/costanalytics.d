@@ -1,0 +1,1 @@
+D:\rust\costanalytics\CostAnalytics\costanalytics\target\debug\costanalytics.exe: D:\rust\costanalytics\CostAnalytics\costanalytics\src\data_capture\image_parser.rs D:\rust\costanalytics\CostAnalytics\costanalytics\src\data_capture\mod.rs D:\rust\costanalytics\CostAnalytics\costanalytics\src\data_capture\pdf_parser.rs D:\rust\costanalytics\CostAnalytics\costanalytics\src\main.rs
